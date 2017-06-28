@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: f7a2f4a30ed79f74394521c0de5959e0
+timeCreated: 1498473523
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Replay: {fileID: 2800000, guid: b7444b8c8b35168408b3bcc85b90603f, type: 3}
+  - Next: {fileID: 2800000, guid: 9422cfa8fee01ed44ad5d26030ed961a, type: 3}
+  - Return: {fileID: 2800000, guid: afa459dba7fa8b54485b59451f41370b, type: 3}
+  - BloodBg: {fileID: 2800000, guid: 7ba2e2a0b37808b40a8d541ad527d0dd, type: 3}
+  - BloodPg1: {fileID: 2800000, guid: 46b7a9ef9760f484c935db307cfac624, type: 3}
+  - BloodPg2: {fileID: 2800000, guid: 32505a8fc44159d47b426711712f250a, type: 3}
+  - tapSfx: {instanceID: 0}
+  - m_AudioBg: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
